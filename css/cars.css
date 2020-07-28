@@ -69,10 +69,10 @@ margin:0px;
 font-size:25px;
 font-family:Oswald;}
 
-.atom{
+/* .atom{
 background:url("atom.jpeg") 0,0 rgba(0,0,0,0.8);
   background-blend-mode:multiply;
-background-size:cover;
+background-size:cover; */
 
 }
 .ph1{
@@ -85,11 +85,11 @@ background:url("PHI2.jpg") 0,0 rgba(0,0,0,0.8);
   background-blend-mode:multiply;
 background-size:cover;
 }
-.formula{
+/* .formula{
 background:url("formula.jpg") repeat 0,0 rgba(0,0,0,0.8);
   background-blend-mode:multiply;
 background-size:cover;
-}
+} */
 .h3h4{
 color:brown;
 font-family:Oswald;
